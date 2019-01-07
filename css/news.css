@@ -62,10 +62,11 @@ header li{
 
 header #branding{
     float: left;
+    margin-left: 15px;
 }
 
 header #branding h1{
-    margin-right: 15px;
+    margin: 0px;
 }
 
 header nav{
